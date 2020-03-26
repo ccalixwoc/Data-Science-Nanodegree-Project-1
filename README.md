@@ -1,7 +1,7 @@
 # Data-Science-Nanodegree-Project 1
 
 ## Table of Contents
-1. [Installation](## Installation)
+1. [Installation](#Installation)
 2. Motivation
 3. File Descriptions
 4. Results
