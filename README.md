@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Installation](#Installation)
 2. [Motivation](#Motivation)
-3. [File Descriptions](#File Descriptions)
+3. [File Descriptions](#FileDescriptions)
 4. [Results](#Results)
 5. [Licensing, Authors and Acknowledgment](#Licensing,AuthorsandAcknowledgment)
 
