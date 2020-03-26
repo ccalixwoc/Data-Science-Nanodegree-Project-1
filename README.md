@@ -5,7 +5,7 @@
 2. [Motivation](#Motivation)
 3. [File Descriptions](#File Descriptions)
 4. [Results](#Results)
-5. [Licensing, Authors and Acknowledgment](#Link)
+5. [Licensing, Authors and Acknowledgment](#[Licensing, Authors and Acknowledgment])
 
 ## Installation
 To run this project, I used Python 3 and installed the following libraries: numpy, pandas and plotly.
