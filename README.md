@@ -11,4 +11,4 @@
 
 
 ## Licensing, Authors and Acknowledgment
-All data was retrieved from Kaggle. You can find the datasets for COVID-19(https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) and SARS(https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset/kernels) here.
+All data was retrieved from Kaggle. You can find the datasets for [COVID-19](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) and [SARS](https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset/kernels) here.
